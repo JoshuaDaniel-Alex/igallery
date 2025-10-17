@@ -103,6 +103,7 @@ images.forEach(imgData => {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (84).png>)
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/b714606e-9e2c-40f5-9aa0-52c5c8373df8" />
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
